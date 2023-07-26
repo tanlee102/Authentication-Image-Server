@@ -1,0 +1,24 @@
+2022-11-28 09:57:06.889 [info] [perf] Render performance baseline is 16ms
+2022-11-28 09:57:06.927 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2022-11-28 09:57:15.832 [error] Unknown (FileSystemError): Failed to move '555545299656903_5792654074100780_1268200097101411795_n.jpeg' to the trash
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at b.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:49551)
+2022-11-28 09:57:16.114 [error] Failed to move '555545299656903_5792654074100780_1268200097101411795_n.jpeg' to the trash: Unknown (FileSystemError): Failed to move '555545299656903_5792654074100780_1268200097101411795_n.jpeg' to the trash
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at b.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:49551)
+2022-11-28 09:57:16.832 [error] NoPermissions (FileSystemError): Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg'
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at n.toFileSystemProviderError (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:43801)
+    at n.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:41281)
+2022-11-28 09:57:17.115 [error] Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg': NoPermissions (FileSystemError): Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg'
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at n.toFileSystemProviderError (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:43801)
+    at n.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:41281)
+2022-11-28 09:57:18.426 [error] NoPermissions (FileSystemError): Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg'
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at n.toFileSystemProviderError (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:43801)
+    at n.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:41281)
+2022-11-28 09:57:18.728 [error] Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg': NoPermissions (FileSystemError): Error: EACCES: permission denied, unlink '/private/var/www/images/555545299656903_5792654074100780_1268200097101411795_n.jpeg'
+    at l (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:34:4144)
+    at n.toFileSystemProviderError (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:43801)
+    at n.delete (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-main/main.js:39:41281)

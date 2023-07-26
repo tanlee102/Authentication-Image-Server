@@ -1,0 +1,12 @@
+2022-11-28 09:57:07.067 [info] Validating found git in: /usr/bin/git
+2022-11-28 09:57:07.079 [info] Using git 2.32.1 (Apple Git-133) from /usr/bin/git
+2022-11-28 09:57:07.090 [info] > git rev-parse --show-toplevel [8ms]
+2022-11-28 09:57:07.090 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-28 09:57:07.098 [info] > git rev-parse --show-toplevel [6ms]
+2022-11-28 09:57:07.098 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-28 09:57:07.104 [info] > git rev-parse --show-toplevel [6ms]
+2022-11-28 09:57:07.104 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-28 09:57:07.114 [info] > git rev-parse --show-toplevel [8ms]
+2022-11-28 09:57:07.114 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-11-28 09:57:07.123 [info] > git rev-parse --show-toplevel [8ms]
+2022-11-28 09:57:07.123 [info] fatal: not a git repository (or any of the parent directories): .git
